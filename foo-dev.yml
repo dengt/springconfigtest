@@ -1,1 +1,2 @@
-key1: tom
+server:
+  port: 8888
